@@ -1,0 +1,12 @@
+{
+    "name": "LedControl",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "improv": false,
+        "parts": [
+          { "path": "merged-flash.bin", "offset": 0 }
+        ]
+      }  
+    ]
+  }
